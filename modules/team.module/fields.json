@@ -1,0 +1,1 @@
+[{ "name": "team_members", "label": "Team Members", "type": "repeatable_group", "children": [{ "name": "name", "label": "Name", "type": "text" }, { "name": "image", "label": "Image", "type": "image" }, { "name": "role", "label": "Role", "type": "text" }] }]

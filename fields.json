@@ -1,0 +1,1 @@
+[{ "name": "color", "label": "Accent Color", "type": "color", "default": "#ff6600" }, { "name": "font", "label": "Font Family", "type": "text", "default": "Arial, sans-serif" }]
